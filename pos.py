@@ -4,7 +4,7 @@ import matplotlib.patches as patches
 import numpy as np
 
 # --- CONFIGURATION ---
-MINIMAP_IMAGE_PATH = "C:/Users/ASUS/OneDrive/New folder/a.png"  # Use your path
+MINIMAP_IMAGE_PATH = "./minimap.png"  # Use your path
 
 # Mid Lane (Diagonal: y = slope*x + intercept)
 INITIAL_MID_THRESHOLD = 0.05
